@@ -79,8 +79,8 @@ configuration = \
         # ]
         
         "TYPE": "WS",
-        "ADDRESS": os.environ["OPENSHIFT_DIY_IP"],
-        "PORT": os.environ["OPENSHIFT_DIY_PORT"],
+        "ADDRESS": str(os.environ["OPENSHIFT_DIY_IP"]),
+        "PORT": int(os.environ["OPENSHIFT_DIY_PORT"]),
         "ACCOUNTS":
         [
             # {
