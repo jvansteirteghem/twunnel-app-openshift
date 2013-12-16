@@ -27,7 +27,7 @@ configuration = \
     "PROXY_SERVERS":
     [
         # {
-            # "TYPE": "HTTP",
+            # "TYPE": "HTTPS",
             # "ADDRESS": "",
             # "PORT": 0,
             # "ACCOUNT":
