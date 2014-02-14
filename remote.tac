@@ -36,9 +36,22 @@ configuration = \
             #     "PASSWORD": ""
             # }
             
+            # "TYPE": "SOCKS4",
+            # "ADDRESS": "",
+            # "PORT": 0,
+            # "ACCOUNT":
+            # {
+            #     "NAME": ""
+            # }
+            
             # "TYPE": "SOCKS5",
             # "ADDRESS": "",
-            # "PORT": 0
+            # "PORT": 0,
+            # "ACCOUNT":
+            # {
+            #     "NAME": "",
+            #     "PASSWORD": ""
+            # }
         # }
     ],
     "REMOTE_PROXY_SERVER":
