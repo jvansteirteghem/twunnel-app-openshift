@@ -12,10 +12,7 @@ configuration = \
     },
     "DNS_RESOLVER":
     {
-        "HOSTS":
-        {
-            "FILE": ""
-        },
+        "FILE": "",
         "SERVERS":
         [
             # {
